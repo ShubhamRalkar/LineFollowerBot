@@ -10,3 +10,5 @@ Components used:
 5. 7805 voltage regulatory
 6. 7.4v 850mah lipo battery.
 7. Custom made PCB.
+
+Kindly review the documents regarding more detailed information.
